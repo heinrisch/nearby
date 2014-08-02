@@ -4,9 +4,6 @@ package com.sbla.nearby;
 import android.app.Activity;
 import android.os.Bundle;
 
-/**
- * Has a single button, used to start the Wearable MainActivityMobile.
- */
 public class MainActivityMobile extends Activity{
 
     @Override
